@@ -1,0 +1,207 @@
+Badminton                     113
+Badminton                     201
+Badminton                     263
+Basebol                       149
+Basebol                       197
+Basebol                       283
+Basebol                       290
+Basebol                       318
+Basebol                       360
+Basquete                      93
+Basquete                      109
+Basquete                      117
+Basquete                      118
+Basquete                      138
+Basquete                      222
+Basquete                      224
+Basquete                      333
+Basquete                      358
+Basquetebol                   44
+Basquetebol                   78
+Basquetebol                   287
+Basquetebol                   302
+Basquetebol                   354
+Basquetebol                   398
+Boxe                          7
+Boxe                          55
+Boxe                          70
+Boxe                          81
+Boxe                          132
+Boxe                          246
+Canoagem Slalom               46
+Canoagem Slalom               54
+Canoagem Slalom               245
+Canoagem Velocidade           52
+Canoagem Velocidade           57
+Canoagem Velocidade           86
+Canoagem Velocidade           127
+Carate                        140
+Carate                        174
+Carate                        239
+Carate                        310
+Carate                        326
+Carate                        347
+Carate                        375
+Carate                        389
+Ciclismo BMX                  162
+Ciclismo BMX                  203
+Ciclismo BMX                  210
+Ciclismo BMX                  247
+Ciclismo Estrada              31
+Ciclismo Estrada              96
+Ciclismo Estrada              141
+Ciclismo Estrada              191
+Ciclismo Estrada              208
+Ciclismo Estrada              229
+Ciclismo Freestyle            190
+Ciclismo Freestyle            192
+Ciclismo Freestyle            213
+Ciclismo Mountain bike        17
+Ciclismo Mountain bike        215
+Ciclismo Mountain bike        251
+Ciclismo Mountain bike        273
+Ciclismo Pista                32
+Ciclismo Pista                187
+Escalada                      64
+Escalada                      80
+Escalada                      296
+Escalada                      298
+Escalada                      345
+Esgrima                       8
+Esgrima                       82
+Esgrima                       85
+Esgrima                       111
+Esgrima                       221
+Futebol                       110
+Futebol                       193
+Futebol                       234
+Ginastica Artistica           95
+Ginastica Artistica           220
+Ginastica Artistica           289
+Ginastica Artistica           321
+Ginastica Ritmica             40
+Ginastica Ritmica             152
+Ginastica Ritmica             216
+Ginastica Ritmica             264
+Ginastica Ritmica             370
+Ginastica Trampolim           12
+Ginastica Trampolim           98
+Ginastica Trampolim           156
+Ginastica Trampolim           195
+Ginastica Trampolim           278
+Ginastica Trampolim           284
+Ginastica Trampolim           316
+Ginastica Trampolim           388
+Golfe                         5
+Golfe                         104
+Golfe                         106
+Golfe                         126
+Golfe                         182
+Golfe                         253
+Halterofilismo                65
+Halterofilismo                244
+Halterofilismo                249
+Handebol                      66
+Handebol                      143
+Handebol                      172
+Handebol                      309
+Handebol                      390
+Hipismo                       29
+Hipismo                       233
+Hipismo                       304
+Hoquei                        20
+Hoquei                        92
+Hoquei                        339
+Hoquei                        357
+Judo                          25
+Judo                          108
+Judo                          114
+Judo                          151
+Judo                          168
+Judo                          218
+Judo                          267
+Luta Greco-romana             41
+Luta Greco-romana             107
+Luta Greco-romana             225
+Luta Greco-romana             348
+Luta Livre                    16
+Luta Livre                    268
+Luta Livre                    368
+Luta Livre                    371
+Luta Livre                    400
+Luta Livre                    401
+Luta Livre                    402
+Luta Livre                    403
+Luta Livre                    404
+Luta Livre                    405
+Luta Livre                    406
+Natacao                       27
+Natacao                       79
+Natacao                       291
+Natacao Artistica             101
+Natacao Artistica             147
+Natacao Artistica             327
+Pentatlo Moderno              77
+Pentatlo Moderno              161
+Pentatlo Moderno              179
+Pentatlo Moderno              185
+Pentatlo Moderno              206
+Polo Aquatico                 72
+Remo                          37
+Remo                          105
+Remo                          181
+Rugby Sevens                  148
+Saltos Ornamentais            84
+Saltos Ornamentais            207
+Saltos Ornamentais            269
+Saltos Ornamentais            272
+Saltos Ornamentais            322
+Saltos Ornamentais            376
+Skate Park                    167
+Skate Park                    330
+Skate Park                    332
+Skate Park                    377
+Skate Street                  22
+Skate Street                  89
+Skate Street                  169
+Surfe                         21
+Surfe                         30
+Surfe                         121
+Surfe                         262
+Surfe                         307
+Surfe                         324
+Surfe                         385
+Taekwondo                     15
+Taekwondo                     23
+Taekwondo                     73
+Taekwondo                     129
+Taekwondo                     194
+Tenis                         1
+Tenis                         14
+Tenis                         68
+Tenis                         250
+Tenis                         346
+Tenis de Mesa                 115
+Tenis de Mesa                 306
+Tenis de Mesa                 383
+Tiro com Arco                 178
+Tiro com Arco                 200
+Tiro com Arco                 294
+Tiro com Arco                 356
+Triatlo                       136
+Triatlo                       301
+Vela                          47
+Vela                          183
+Vela                          205
+Vela                          226
+Vela                          277
+Vela                          311
+Vela                          336
+Vela                          396
+Volei de Praia                88
+Volei de Praia                160
+Volei de Praia                231
+Volei de Praia                319
+Volei de Quadra               286
+Volei de Quadra               379
+ 

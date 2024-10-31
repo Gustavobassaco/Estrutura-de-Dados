@@ -1,0 +1,32 @@
+Avaliação A2 - Cálculo Diferencial e Integral 3A - Turma COM3A
+Enunciado e Gabarito
+
+Nome: GUSTAVO RODRIGUES BASSACO
+e-mail: gustavobassaco@gmail.com
+Prova número 25
+
+Atenção! Nas equações abaixo x**n representa x elevado a n-ésima potência.
+
+Caso algum coeficiente seja uma dízima periódica
+ou tenha sido gerados com um resto muito pequeno por volta da 15ª casa decimal,
+use o coeficiente com apenas três casas decimais.
+
+Problema: aerogerador de energia eólica.
+a = 520.0,
+b = 86.66666666666667,
+h = 260.
+rho = 5
+D = 300
+
+Os coeficientes do campo vetorial que modela o vento são
+k1 = 3,
+k2 = 2,
+k3 = 4.
+
+Coeficientes da Questão 5
+c1 = 3,
+c2 = 4,
+c3 = 1.
+alpha = 2.
+beta = 4.
+gamma = 4.

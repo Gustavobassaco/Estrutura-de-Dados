@@ -1,0 +1,20 @@
+Comprimento de Arco
+Considere uma partícula ou um inseto se deslocando ao longo de uma curva C pa
+rametrizada por
+uma função vetorial suave r(t), como na Figura 5.3. Veja
+mos agora como podemos expressar a
+distância percorrida por esta partícula em um intervalo de
+ tempo [a,b]: esta quantidade é também
+chamada de comprimento de arco de C de t = a até t = b. Seja r(t) = f(t)i+g(t)j, pa
+ra t ∈ [a,b],
+uma parametrização suave da curva C. Consideramos uma partição do intervalo [a,b] de
+acordo com
+pontos a = t0,t1,...,tn−1,tn = b, onde tk −tk−1 = ∆t = (b−a)/n. Sejam P0,P1,...,Pn a
+imagem
+de cada um dos pontos da part
+ição, isto é, Pk = r(tk) = (xk, yk), t = 0,1,...,n. Veja a Figura 5.15.
+O comprimento de arco L de C é definido como o limite das aproximações poligonais ilu
+stradas
+pelas Figuras 5.15 e 5.16. Cada aproximação é definida pela soma do comprimento dos s
+egmentos
+Pk−1Pk, de modo que definimos

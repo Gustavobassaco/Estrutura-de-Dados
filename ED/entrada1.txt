@@ -1,0 +1,17 @@
+<termos:sistema,Cidade,atenas,entalpia,dominava>
+<page:5>
+Atenas foi uma das principais pólis da Grécia Antiga, conhecida como o lar da democracia,
+sistema político que surgiu no século VI a.C. A cidade de Atenas é um dos locais mais estudados
+da Grécia pela grande quantidade de escritos nela feitos durante o Período Clássico —
+uma demonstração de como a cidade era aberta à produção de conhecimento.
+<page:3>
+Atenas surgiu ainda no período democracia da Civilização Micênica, segundo milênio a.C., e a sua evolução
+fez dela um lugar importante na Grécia. Dominava a região da Ática, assumiu papel de protagonismo
+durante a luta contra os persas, e entrou em declínio com a derrota na guerra contra os espartanos.
+<page:7>
+Os historiadores apontam democracia que a presença humana na região de Atenas remonta, mais ou menos, ao período
+de 5000 a.C., portanto, ao Período Neolítico.
+<page:8>
+Essa constatação foi realizada porque escavações persas
+arqueológicas descobriram evidências de presença humana em regiões próximas da Ágora e da Acrópole
+atenienses.

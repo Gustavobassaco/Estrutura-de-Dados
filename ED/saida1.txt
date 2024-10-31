@@ -1,0 +1,5 @@
+atenas,  3,  5,  7
+Cidade,  5
+dominava,  3
+entalpia: Nenhuma ocorrencia
+sistema,  5

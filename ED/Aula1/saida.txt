@@ -1,0 +1,20 @@
+C*mpr*m*nt* d* *rc*
+C*ns*d*r* *m* p*rtíc*l* ** *m *ns*t* s* d*sl*c*nd* ** l*ng* d* *m* c*rv* C p*
+r*m*tr*z*d* p*r
+*m* f*nçã* v*t*r**l s**v* r(t), c*m* n* F*g*r* 5.3. V*j*
+m*s *g*r* c*m* p*d*m*s *xpr*ss*r *
+d*stânc** p*rc*rr*d* p*r *st* p*rtíc*l* *m *m *nt*rv*l* d*
+ t*mp* [*,b]: *st* q**nt*d*d* é t*mbém
+ch*m*d* d* c*mpr*m*nt* d* *rc* d* C d* t = * *té t = b. S*j* r(t) = f(t)*+g(t)j, p*
+r* t ∈ [*,b],
+*m* p*r*m*tr*z*çã* s**v* d* c*rv* C. C*ns*d*r*m*s *m* p*rt*çã* d* *nt*rv*l* [*,b] d*
+*c*rd* c*m
+p*nt*s * = t0,t1,...,tn−1,tn = b, *nd* tk −tk−1 = ∆t = (b−*)/n. S*j*m P0,P1,...,Pn *
+*m*g*m
+d* c*d* *m d*s p*nt*s d* p*rt
+*çã*, *st* é, Pk = r(tk) = (xk, yk), t = 0,1,...,n. V*j* * F*g*r* 5.15.
+* c*mpr*m*nt* d* *rc* L d* C é d*f*n*d* c*m* * l*m*t* d*s *pr*x*m*çõ*s p*l*g*n**s *l*
+str*d*s
+p*l*s F*g*r*s 5.15 * 5.16. C*d* *pr*x*m*çã* é d*f*n*d* p*l* s*m* d* c*mpr*m*nt* d*s s
+*gm*nt*s
+Pk−1Pk, d* m*d* q** d*f*n*m*s
